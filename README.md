@@ -6,6 +6,66 @@ https://drive.google.com/file/d/1hoQYLB-kWGRmHSA5yA87ZITj7TXHpj-n/view?usp=shari
 
 https://challenge-9f6b8.web.app/
 
+## Project Folder Structure
+
+```
+amazon-clone
+├─ .firebase
+├─ .firebaserc
+├─ .git
+├─ .gitignore
+├─ firebase.json
+├─ functions
+│  ├─ .eslintrc.json
+│  ├─ .gitignore
+│  ├─ firebase-debug.log
+│  ├─ index.js
+│  ├─ package-lock.json
+│  ├─ package.json
+│  └─ ui-debug.log
+├─ package-lock.json
+├─ package.json
+├─ public
+│  ├─ favicon.ico
+│  ├─ index.html
+│  ├─ logo192.png
+│  ├─ logo512.png
+│  ├─ manifest.json
+│  └─ robots.txt
+├─ README.md
+├─ src
+│  ├─ App.css
+│  ├─ App.js
+│  ├─ axios.js
+│  ├─ Checkout.css
+│  ├─ Checkout.js
+│  ├─ CheckoutProduct.css
+│  ├─ CheckoutProduct.js
+│  ├─ firebase.js
+│  ├─ Header.css
+│  ├─ Header.js
+│  ├─ Home.css
+│  ├─ Home.js
+│  ├─ index.css
+│  ├─ index.js
+│  ├─ Login.css
+│  ├─ Login.js
+│  ├─ Order.css
+│  ├─ Order.js
+│  ├─ Orders.css
+│  ├─ Orders.js
+│  ├─ Payment.css
+│  ├─ Payment.js
+│  ├─ Product.css
+│  ├─ Product.js
+│  ├─ reducer.js
+│  ├─ StateProvider.js
+│  ├─ Subtotal.css
+│  └─ Subtotal.js
+└─ ui-debug.log
+
+```
+
 ## React JS
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
